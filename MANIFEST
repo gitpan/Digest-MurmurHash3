@@ -18,3 +18,4 @@ src/MurmurHash3.h
 src/perl-murmurhash3.xs
 t/001_basic.t
 tools/update_cpp.pl
+xshelper.h
